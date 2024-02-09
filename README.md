@@ -1,5 +1,5 @@
 # App Delivery
-Desarrollé una landing page con un diseño  a píxel perfect, siguiendo la metodología BEM para una estructura de código modular y mantenible. Utilicé tecnologías modernas como Flexbox y CSS Grid para lograr un diseño flexible y eficiente. Además, implementé Custom Properties y SASS con Mixins para un manejo avanzado y eficiente de estilos. Optimicé el flujo de trabajo con Gulp, asegurando una construcción y despliegue sin problemas.
+Desarrollé una landing page con un diseño  a píxel perfect, siguiendo la metodología BEM para una estructura de código modular y mantenible. Utilicé tecnologías modernas como Flexbox y CSS Grid para lograr un diseño flexible y eficiente. Además, implementé Custom Properties y SASS con Mixins para un manejo avanzado de estilos. Optimicé el flujo de trabajo con Gulp, asegurando una construcción y despliegue sin problemas.
 
 Las animaciones integradas no solo mejoran la experiencia del usuario, sino que también demuestran mi habilidad para agregar un toque dinámico al diseño. La implementación de un enfoque de diseño responsivo (RWD) garantiza que la página sea accesible y funcional en diferentes dispositivos y tamaños de pantalla.
 
